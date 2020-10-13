@@ -5,7 +5,7 @@ body {
 /* TEXT*/
 .text
 {
-    Width: 500px;
+    Width: 30%;
     height: 100%;
     padding: 10px 10px 20px 20px;
     float: right;
@@ -73,6 +73,6 @@ body {
     transform: scale(1.3);
 }
 #img{
-    width: 1000px;
-    height: 640px;
+    width: 70%;
+    height: auto;
 }
